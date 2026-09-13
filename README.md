@@ -11,10 +11,10 @@
 
  
 `Olá! Tudo bem?`
-Sou estudante de Sistemas de Informação no Instituto Federal (IFBA) e atuo como estagiária, com experiência em operações, suporte técnico e atendimento a usuários.
+Sou estudante de Sistemas de Informação no Instituto Federal (IFBA) e atuo como estagiária, com experiência em operações, suporte técnico e atendimento a usuários. <br>
 Ao longo da minha trajetória, venho desenvolvendo conhecimentos em metodologias ágeis, como Scrum e Kanban, gestão e governança de TI, normas ISO e ITIL, além de tecnologias como Java, Python, Inteligência Artificial, SQL, JavaScript, HTML, CSS, Git, Figma e Canva, aplicados em projetos acadêmicos e pessoais.
-Também sou Staff voluntária da comunidade Tech Sisters, onde participo na elaboração de projetos, desenvolvimento de soluções e suporte à comunidade, contribuindo para iniciativas que aproximam, fortalecem e ampliam a presença de mulheres na tecnologia.
-Além disso, tenho interesse em inovação e na criação de soluções para desafios reais. Participei do Hackathon Cody 4.City, promovido pela Prefeitura, e minha equipe conquistou o 3º lugar com o projeto Tô Legal Conquista, atualmente em processo de incubação. A proposta consiste em sistema como solução para contribuir com a modernização da gestão e do processo de regularização e licenciamento de trabalhadores ambulantes da minha cidade.
+Também sou Staff voluntária da comunidade Tech Sisters, onde participo na elaboração de projetos, desenvolvimento de soluções e suporte à comunidade, contribuindo para iniciativas que aproximam, fortalecem e ampliam a presença de mulheres na tecnologia. <br>
+Além disso, tenho interesse em inovação e na criação de soluções para desafios reais. Participei do Hackathon Cody 4.City, promovido pela Prefeitura, e minha equipe conquistou o 3º lugar com o projeto Tô Legal Conquista, atualmente em processo de incubação. A proposta consiste em sistema como solução para contribuir com a modernização da gestão e do processo de regularização e licenciamento de trabalhadores ambulantes da minha cidade. <br>
 Minha trajetória profissional anterior nas áreas de Departamento Pessoal e Processos Industriais também contribuiu para o desenvolvimento de competências relacionadas à comunicação, resolução de problemas, visão de processos e práticas como Lean, 5S e Takt Time.
 Busco continuar crescendo nas áreas de tecnologia e inovação, unindo conhecimento técnico, colaboração e criatividade para transformar desafios e ideias em soluções que gerem impacto.
 
