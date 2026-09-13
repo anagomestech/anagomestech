@@ -10,10 +10,13 @@
 ---
 
  
-`Olá! Tudo bem?` Atualmente estou cursando a <strong>graduação</strong> em <strong>Sistemas de Informação</strong> no <strong>Instituto Federal</strong>. <br>
-No meio acadêmico venho desenvolvendo habilidades de lógica de programação em back-end e front-end. E continuo me aprofundando em tecnologias como Git, Banco de dados e Metodologias ágeis.
-
-Já no cenário profissional possuo prática no setor administrativo, recursos humanos e fluxo de produção com uma base sólida em tecnologia. Além de projetos pessoais que contruibuem para a minha jornada como atuante em T.I.  <br> Estou aberta a oportunidades que me permitam crescer como profissional e integrar ativamente para projetos de T.I.
+`Olá! Tudo bem?`
+Sou estudante de Sistemas de Informação no Instituto Federal (IFBA) e atuo como estagiária, com experiência em operações, suporte técnico e atendimento a usuários.
+Ao longo da minha trajetória, venho desenvolvendo conhecimentos em metodologias ágeis, como Scrum e Kanban, gestão e governança de TI, normas ISO e ITIL, além de tecnologias como Java, Python, Inteligência Artificial, SQL, JavaScript, HTML, CSS, Git, Figma e Canva, aplicados em projetos acadêmicos e pessoais.
+Também sou Staff voluntária da comunidade Tech Sisters, onde participo na elaboração de projetos, desenvolvimento de soluções e suporte à comunidade, contribuindo para iniciativas que aproximam, fortalecem e ampliam a presença de mulheres na tecnologia.
+Além disso, tenho interesse em inovação e na criação de soluções para desafios reais. Participei do Hackathon Cody 4.City, promovido pela Prefeitura, e minha equipe conquistou o 3º lugar com o projeto Tô Legal Conquista, atualmente em processo de incubação. A proposta consiste em sistema como solução para contribuir com a modernização da gestão e do processo de regularização e licenciamento de trabalhadores ambulantes da minha cidade.
+Minha trajetória profissional anterior nas áreas de Departamento Pessoal e Processos Industriais também contribuiu para o desenvolvimento de competências relacionadas à comunicação, resolução de problemas, visão de processos e práticas como Lean, 5S e Takt Time.
+Busco continuar crescendo nas áreas de tecnologia e inovação, unindo conhecimento técnico, colaboração e criatividade para transformar desafios e ideias em soluções que gerem impacto.
 
 ---
 
