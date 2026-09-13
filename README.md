@@ -22,7 +22,7 @@ Busco continuar crescendo nas áreas de tecnologia e inovação, unindo conhecim
 
 <h3 align="center">🖥️ Tecnologias</h3>
 
-`Linguagens:`  
+`Skills:`  
 <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=white"/>
