@@ -35,7 +35,7 @@ Tenho interesse em **tecnologia, desenvolvimento de software, inovação e cria�
 
 ## 💜 Voluntariado & Comunidade
 
-### 👩🏻‍💻 Tech Sisters — Staff
+### Tech Sisters — Staff
 
 Atuação em **projetos, desenvolvimento de soluções, suporte à comunidade e comissão geral**, contribuindo para iniciativas que fortalecem a presença feminina na tecnologia.
 
@@ -45,19 +45,21 @@ Atuação em **projetos, desenvolvimento de soluções, suporte à comunidade e 
 
 ## 🏆 Destaque
 
-### 🥉 3º lugar — Hackathon Cody 4.City
+### 3º lugar — Hackathon Cody 4.City
 
-**Tô Legal Conquista** — Projeto premiado pelo Hackathon Cody 4.City, para uso da Prefeitura.
+com projeto **Tô Legal Conquista** — Projeto premiado pelo Hackathon Cody 4.City, para uso da Prefeitura.
 
 
 
 ## 🚀 Projetos ativos
 
-**💖 Site Tech Sister** `Em desenvolvimento` 
+**Site Tech Sister** `Em desenvolvimento` 
 <br> Colaboração na criação Site pioneiro oficial da comunidade Tech Sister.
-**📢 Week-IT** `Em atuação` 
+
+**Week-IT** `Em atuação` 
 <br> Participação voluntária na organização Evento da Semana da Tecnologia da Infomação, como membro Comissão Financeira.
-**✅ Tô Legal, Conquista** `Em incubação` 
+
+**Tô Legal, Conquista** `Em incubação` 
 <br> Sistema de gestão inteligente para trabalhadores ambulantes, desenvolvido com foco na modernização do cadastro, licenciamento e organização das atividades.
 
 
