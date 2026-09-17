@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>𝘼𝙉𝘼 𝘾𝘼𝙍𝙊𝙇𝙄𝙉𝘼 𝙂𝙊𝙈𝙀𝙎</h1>
+<h2>𝘼𝙉𝘼 𝘾𝘼𝙍𝙊𝙇𝙄𝙉𝘼 𝙂𝙊𝙈𝙀𝙎</h2>
 
 <h3>👩🏻‍💻 Estudante de Sistemas de Informação — IFBA</h3>
 
@@ -49,17 +49,18 @@ Atuação em **projetos, desenvolvimento de soluções, suporte à comunidade e 
 
 **Tô Legal Conquista** — Projeto premiado pelo Hackathon Cody 4.City, para uso da Prefeitura.
 
----
+
 
 ## 🚀 Projetos ativos
 
 **💖 Site Tech Sister** `Em desenvolvimento` 
-<br> Site oficial da comunidade Tech Sister.
-
+<br> Colaboração na criação Site pioneiro oficial da comunidade Tech Sister.
+**📢 Week-IT** `Em atuação` 
+<br> Participação voluntária na organização Evento da Semana da Tecnologia da Infomação, como membro Comissão Financeira.
 **✅ Tô Legal, Conquista** `Em incubação` 
 <br> Sistema de gestão inteligente para trabalhadores ambulantes, desenvolvido com foco na modernização do cadastro, licenciamento e organização das atividades.
 
----
+
 
 ## 🖥️ Tecnologias
 
@@ -82,5 +83,5 @@ Atuação em **projetos, desenvolvimento de soluções, suporte à comunidade e 
 
 
 
-> Entre em contato comigo por e-mail ou LinkedIn! <br>
-<p align="right"> 𝓂𝑒𝓇𝒶𝓀𝒾 - 𝒹𝒶𝓇 𝑜 𝓂𝑒𝓁𝒽𝑜𝓇 𝒹𝑒 𝓈𝒾 𝑒 𝒻𝒶𝓏𝑒-𝓁𝑜 𝒸𝑜𝓂 𝒶 𝒶𝓁𝓂𝒶 </p>
+> Entre em contato comigo por e-mail ou LinkedIn!
+<br> <p align="right"> 𝓂𝑒𝓇𝒶𝓀𝒾 - 𝒹𝒶𝓇 𝑜 𝓂𝑒𝓁𝒽𝑜𝓇 𝒹𝑒 𝓈𝒾 𝑒 𝒻𝒶𝓏𝑒-𝓁𝑜 𝒸𝑜𝓂 𝒶 𝒶𝓁𝓂𝒶 </p>
