@@ -32,9 +32,6 @@ Olá! Sou estudante de **Sistemas de Informação no IFBA** e atuo como **Estagi
 
 Tenho interesse em **tecnologia, desenvolvimento de software, inovação e criação de soluções para desafios reais**, buscando unir conhecimento técnico, criatividade e colaboração.
 
-Também sou **Staff voluntária da comunidade Tech Sisters**, participando de projetos, desenvolvimento de soluções, suporte às Sisters e organização da comunidade. 💜
-
-
 
 ## 💜 Voluntariado & Comunidade
 
@@ -72,7 +69,6 @@ Atuação em **projetos, desenvolvimento de soluções, suporte à comunidade e 
 
 `Metodologias Ágeis:`<br> <img src="https://img.shields.io/badge/Sprints-%23FF6F61?style=flat&logo=none&logoColor=white"/> <img src="https://img.shields.io/badge/Scrum-%2300AEEF?style=flat&logo=none&logoColor=white"/> <img src="https://img.shields.io/badge/Kanban-%23ED8B00?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Lean-%239B51E0?style=flat&logo=none&logoColor=white"/>
 
----
 
 ## 📊 GitHub
 
@@ -84,12 +80,7 @@ Atuação em **projetos, desenvolvimento de soluções, suporte à comunidade e 
 
 </div>
 
----
 
-<div align="right">
 
-<h3> 💜 meraki </h3>
-
-*dar o melhor de si e fazê-lo com a alma*
-
-</div>
+> Entre em contato comigo por e-mail ou LinkedIn! <br>
+<p align="right"> 𝓂𝑒𝓇𝒶𝓀𝒾 - 𝒹𝒶𝓇 𝑜 𝓂𝑒𝓁𝒽𝑜𝓇 𝒹𝑒 𝓈𝒾 𝑒 𝒻𝒶𝓏𝑒-𝓁𝑜 𝒸𝑜𝓂 𝒶 𝒶𝓁𝓂𝒶 </p>
