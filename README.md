@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Ana Carolina Gomes</h2>
+<h1>Ana Gomes</h1>
 
 <h3>Estudante de Sistemas de Informação — IFBA</h3>
 
@@ -12,14 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:anacsgcarolina@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:anacsgcarolina@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> 
+  <a href="https://www.linkedin.com/in/anagomestech/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/anagomestech/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/anagomestech/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/anagomestech/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -41,7 +38,7 @@ Também sou Staff voluntária da comunidade <b>Tech Sisters</b>, onde participo 
 `Metodologias Ágeis:`<br> <img src="https://img.shields.io/badge/Sprints-%23FF6F61?style=flat&logo=none&logoColor=white"/> <img src="https://img.shields.io/badge/Scrum-%2300AEEF?style=flat&logo=none&logoColor=white"/> <img src="https://img.shields.io/badge/Kanban-%23ED8B00?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Lean-%239B51E0?style=flat&logo=none&logoColor=white"/>
 
 
-## 🚀 Projetos ativos
+## 🧪 Projetos ativos
 
 - **Site Tech Sister** (comunidade) `Em desenvolvimento` 
 <br> Colaboração no desenvolvimento do Site pioneiro oficial da comunidade Tech Sister.
@@ -55,7 +52,7 @@ Também sou Staff voluntária da comunidade <b>Tech Sisters</b>, onde participo 
 
 ## 🤝 Voluntariado & Comunidade
 
-### Tech Sisters — Staff
+#### Tech Sisters — Staff
 
 Atuo nos grupos de projetos técnicos, desenvolvimento de soluções, suporte à comunidade e comissão geral.
 
@@ -65,9 +62,9 @@ Atuo nos grupos de projetos técnicos, desenvolvimento de soluções, suporte à
 
 ## 🏆 Destaque
 
-### 3º lugar — Hackathon Cody 4.City
+#### 3º lugar — Hackathon Cody 4.City
 
-Sistema **Tô Legal Conquista** — Projeto premiado pelo Hackathon Cody 4.City, para uso da Prefeitura.
+Sistema **Tô Legal Conquista** - Projeto premiado pelo Hackathon Cody 4.City, para uso da Prefeitura.
 
 
 
@@ -81,7 +78,7 @@ Sistema **Tô Legal Conquista** — Projeto premiado pelo Hackathon Cody 4.City,
 
 </div>
 
-
+<br>
 
 > Entre em contato comigo por e-mail ou LinkedIn!
 <br> <p align="right"> 𝓂𝑒𝓇𝒶𝓀𝒾 - 𝒹𝒶𝓇 𝑜 𝓂𝑒𝓁𝒽𝑜𝓇 𝒹𝑒 𝓈𝒾 𝑒 𝒻𝒶𝓏𝑒-𝓁𝑜 𝒸𝑜𝓂 𝒶 𝒶𝓁𝓂𝒶 </p>
