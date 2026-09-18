@@ -1,24 +1,25 @@
 <div align="center">
 
-<h2>𝘼𝙉𝘼 𝘾𝘼𝙍𝙊𝙇𝙄𝙉𝘼 𝙂𝙊𝙈𝙀𝙎</h2>
+<h2>Ana Carolina Gomes</h2>
 
-<h3>👩🏻‍💻 Estudante de Sistemas de Informação — IFBA</h3>
+<h3>Estudante de Sistemas de Informação — IFBA</h3>
 
 <p>
-💻 Estagiário de Suporte e Manutenção &nbsp; • &nbsp;
-🚀 Tecnologia &nbsp; • &nbsp;
-🎨 Criatividade
+💻 Estagiária de Suporte e Manutenção &nbsp; • &nbsp;
+🚀 Fullstack &nbsp; • &nbsp;
+🎨 UI/UX &nbsp; • &nbsp;
+📋 Metodologias ágeis
 </p>
 
 <p align="center">
   <a href="mailto:anacsgcarolina@gmail.com">
-    <img src="https://img.shields.io/badge/Email-18181B?style=flat&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/anagomestech/">
-    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.dio.me/users/fiercethrone">
-    <img src="https://img.shields.io/badge/DIO-18181B?style=flat&logoColor=A855F7"/>
+  <a href="https://www.instagram.com/anagomestech/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -27,42 +28,9 @@
 
 
 ## 👩🏻‍💻 Sobre mim
-
-Olá! Sou estudante de **Sistemas de Informação no IFBA** e atuo como **Estagiário de Suporte e Manutenção**, com experiência em suporte técnico, atendimento a usuários, manutenção e configuração de equipamentos e sistemas.
-
-Tenho interesse em **tecnologia, desenvolvimento de software, inovação e criação de soluções para desafios reais**, buscando unir conhecimento técnico, criatividade e colaboração.
-
-
-## 💜 Voluntariado & Comunidade
-
-### Tech Sisters — Staff
-
-Atuação em **projetos, desenvolvimento de soluções, suporte à comunidade e comissão geral**, contribuindo para iniciativas que fortalecem a presença feminina na tecnologia.
-
-> **Juntas somos mais fortes! 💜**
-
-
-
-## 🏆 Destaque
-
-### 3º lugar — Hackathon Cody 4.City
-
-com projeto **Tô Legal Conquista** — Projeto premiado pelo Hackathon Cody 4.City, para uso da Prefeitura.
-
-
-
-## 🚀 Projetos ativos
-
-**Site Tech Sister** `Em desenvolvimento` 
-<br> Colaboração na criação Site pioneiro oficial da comunidade Tech Sister.
-
-**Week-IT** `Em atuação` 
-<br> Participação voluntária na organização Evento da Semana da Tecnologia da Infomação, como membro Comissão Financeira.
-
-**Tô Legal, Conquista** `Em incubação` 
-<br> Sistema de gestão inteligente para trabalhadores ambulantes, desenvolvido com foco na modernização do cadastro, licenciamento e organização das atividades.
-
-
+`Olá, Mundo!`
+Ao longo da minha trajetória, venho desenvolvendo conhecimentos em metodologias ágeis, como Scrum e Kanban, gestão e governança de TI, normas ISO e ITIL, além de tecnologias como Java, Python, Inteligência Artificial, SQL, JavaScript, HTML, CSS, Git, Figma, PSCS6 e Canva, aplicados em projetos acadêmicos e pessoais. <br>
+Também sou Staff voluntária da comunidade <b>Tech Sisters</b>, onde participo na elaboração de projetos, desenvolvimento e suporte à comunidade, contribuindo para iniciativas que aproximam, fortalecem e ampliam a presença de mulheres na tecnologia.
 
 ## 🖥️ Tecnologias
 
@@ -73,13 +41,43 @@ com projeto **Tô Legal Conquista** — Projeto premiado pelo Hackathon Cody 4.C
 `Metodologias Ágeis:`<br> <img src="https://img.shields.io/badge/Sprints-%23FF6F61?style=flat&logo=none&logoColor=white"/> <img src="https://img.shields.io/badge/Scrum-%2300AEEF?style=flat&logo=none&logoColor=white"/> <img src="https://img.shields.io/badge/Kanban-%23ED8B00?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Lean-%239B51E0?style=flat&logo=none&logoColor=white"/>
 
 
+## 🚀 Projetos ativos
+
+- **Site Tech Sister** (comunidade) `Em desenvolvimento` 
+<br> Colaboração no desenvolvimento do Site pioneiro oficial da comunidade Tech Sister.
+
+- **Week-IT** (acadêmica) `Em atuação` 
+<br> Participação voluntária como membro da Comissão Financeira na organização evento Week-IT - Semana da Tecnologia da Infomação.
+
+- **Tô Legal, Conquista** (hackathon)  `Em incubação` 
+<br> Sistema de gestão inteligente para trabalhadores ambulantes, desenvolvido com foco na modernização do cadastro, licenciamento e organização das atividades.
+
+
+## 🤝 Voluntariado & Comunidade
+
+### Tech Sisters — Staff
+
+Atuo nos grupos de projetos técnicos, desenvolvimento de soluções, suporte à comunidade e comissão geral.
+
+> **Juntas somos mais fortes! 💜**
+
+
+
+## 🏆 Destaque
+
+### 3º lugar — Hackathon Cody 4.City
+
+Sistema **Tô Legal Conquista** — Projeto premiado pelo Hackathon Cody 4.City, para uso da Prefeitura.
+
+
+
 ## 📊 GitHub
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anagomestech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagomestech&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
