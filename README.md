@@ -4,19 +4,14 @@
 
 <h3>Estudante de Sistemas de Informação — IFBA</h3>
 
-<p>
-💻 Estagiária de Suporte e Manutenção &nbsp; • &nbsp;
-🚀 Fullstack &nbsp; • &nbsp;
-🎨 UI/UX &nbsp; • &nbsp;
-📋 Metodologias ágeis
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&width=740&height=30&lines=+%F0%9F%8E%A8+UI%2FUX+%E2%80%A2++%F0%9F%9A%80+Fullstack+%E2%80%A2+%F0%9F%93%8B+Metodologias+%C3%A1geis+%E2%80%A2+%F0%9F%92%BB+Estagi%C3%A1ria+de+Suporte+e+Manuten%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="mailto:anacsgcarolina@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:anacsgcarolina@gmail.com"><img src="https://img.shields.io/badge/Gmail-383838?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> 
-  <a href="https://www.linkedin.com/in/anagomestech/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/anagomestech/"><img src="https://img.shields.io/badge/LinkedIn-383838?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/anagomestech/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/anagomestech/"><img src="https://img.shields.io/badge/Instagram-383838?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -67,18 +62,8 @@ Atuo nos grupos de projetos técnicos, desenvolvimento de soluções, suporte à
 Sistema **Tô Legal Conquista** - Projeto premiado pelo Hackathon Cody 4.City, para uso da Prefeitura.
 
 
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anagomestech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagomestech&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
 <br>
 
 > Entre em contato comigo por e-mail ou LinkedIn!
 <br> <p align="right"> 𝓂𝑒𝓇𝒶𝓀𝒾 - 𝒹𝒶𝓇 𝑜 𝓂𝑒𝓁𝒽𝑜𝓇 𝒹𝑒 𝓈𝒾 𝑒 𝒻𝒶𝓏𝑒-𝓁𝑜 𝒸𝑜𝓂 𝒶 𝒶𝓁𝓂𝒶 </p>
+
