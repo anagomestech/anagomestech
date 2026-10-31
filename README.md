@@ -4,7 +4,7 @@
 
 <h3>Estudante de Sistemas de Informação — IFBA</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&width=740&height=30&lines=+%F0%9F%8E%A8+UI%2FUX+%E2%80%A2++%F0%9F%9A%80+Fullstack+%E2%80%A2+%F0%9F%93%8B+Metodologias+%C3%A1geis+%E2%80%A2+%F0%9F%92%BB+Estagi%C3%A1ria+de+Suporte+e+Manuten%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=9B51E0&width=740&height=30&lines=+%F0%9F%8E%A8+UI%2FUX+%E2%80%A2++%F0%9F%9A%80+Fullstack+%E2%80%A2+%F0%9F%93%8B+Metodologias+%C3%A1geis+%E2%80%A2+%F0%9F%92%BB+Estagi%C3%A1ria+de+Suporte+e+Manuten%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:anacsgcarolina@gmail.com"><img src="https://img.shields.io/badge/Gmail-383838?style=for-the-badge&logo=gmail&logoColor=white"/>
