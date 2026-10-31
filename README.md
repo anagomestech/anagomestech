@@ -38,8 +38,8 @@ Também sou Staff voluntária da comunidade <b>Tech Sisters</b>, onde participo 
 - **Site Tech Sister** (comunidade) `Em desenvolvimento` 
 <br> Colaboração no desenvolvimento do Site pioneiro oficial da comunidade Tech Sister.
 
-- **Week-IT** (acadêmica) `Em atuação` 
-<br> Participação voluntária como membro da Comissão Financeira na organização evento Week-IT - Semana da Tecnologia da Infomação.
+- **Week-IT** (acadêmica) `Em finalização` 
+<br> Participação voluntária como Vice-líder da Comissão Financeira na organização evento Week-IT - Semana da Tecnologia da Infomação.
 
 - **Tô Legal, Conquista** (hackathon)  `Em incubação` 
 <br> Sistema de gestão inteligente para trabalhadores ambulantes, desenvolvido com foco na modernização do cadastro, licenciamento e organização das atividades.
