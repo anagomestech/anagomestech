@@ -47,9 +47,12 @@ Também sou Staff voluntária da comunidade <b>Tech Sisters</b>, onde participo 
 
 ## 🤝 Voluntariado & Comunidade
 
-#### Tech Sisters — Staff
+#### Tech Sisters — Supervisora de Desenvolvimento de Projetos e do PinkLab, Desenvolvedora e Suporte
 
-Atuo nos grupos de projetos técnicos, desenvolvimento de soluções, suporte à comunidade e comissão geral.
+Staff voluntária na comunidade Tech Sister. `No momento`
+- **Supervidora:** Promovida ao cargo de Supervisora de Desenvolvimento de Projetos, atuando na liderança e organização da equipe de Desenvolvimento de Projetos e na administração do PinkLab (laboratório interativo), em colaboração com as fundadoras.
+- **Desenvolvedora:** Atuação em projetos técnicos, desenvolvimento de sistemas e soluções para a comunidade.
+- **Suporte:** Atendimento e suporte ao membros, esclarecimento de dúvidas, auxílio nos canais da comunidade, entradas, fiscalizações e demandas rotineiras.
 
 > **Juntas somos mais fortes! 💜**
 
